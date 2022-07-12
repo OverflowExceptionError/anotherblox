@@ -1,0 +1,11 @@
+{
+  "name": "anotherblox",
+  "version": "1.0.0",
+  "description": "AnotherBlox Website (powered by RCCService)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "AnotherBlox",
+  "license": "ISC"
+}
